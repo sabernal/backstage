@@ -21,7 +21,7 @@
     "@backstage/create-app": "0.4.15",
     "@backstage/dev-utils": "0.2.19",
     "e2e-test": "0.2.0",
-    "embedded-techdocs-app": "0.2.61",
+    "techdocs-cli-embedded-app": "0.2.61",
     "@backstage/errors": "0.2.0",
     "@backstage/integration": "0.7.2",
     "@backstage/integration-react": "0.1.19",
